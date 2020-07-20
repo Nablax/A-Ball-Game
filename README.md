@@ -10,4 +10,6 @@ If you hit the blue ball, the gray ball returns to its original size and scores 
 If you hit the yellow ball, the red ball in a certain range is eliminated, and the score is increased to the number of eliminated red ball +1.
 
 If you hit the red ball, the game is over.
+## Play
+[**Download**](https://github.com/kbxpy12321/A_ball_game/raw/master/app-debug.apk)
 
