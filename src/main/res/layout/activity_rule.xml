@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        android:text="Rules：\n\nSwing the phone to control the movement of the gray ball.\n\nIf the green ball is touched,  the gray ball becomes larger and score +1.\n\nIf the blue ball is touched, the gray ball returns to its original size and scores +2.\n\nIf you touch the yellow ball, the red ball in a certain range is eliminated, and the score is increased to the number of eliminated red ball +1.\n\nIf you touch the red ball, the game is over."
+        android:text="Rules：\n\nSwing the smartphone to control the gray ball to hit other balls.\n\nIf you hit the green ball, the gray ball becomes larger and score +1.\n\nIf you hit the blue ball, the gray ball returns to its original size and scores +2.\n\nIf you hit the yellow ball, the red ball in a certain range is eliminated, and the score is increased to the number of eliminated red ball +1.\n\nIf you hit the red ball, the game is over."
         android:textSize="20sp" />
 
 </RelativeLayout>
