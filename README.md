@@ -1,5 +1,8 @@
 # A_ball_game
 A simple Android game using gravity sensor.
+
+<img src="screenshots/main_gui.jpg" width="25%" height="25%"> <img src="screenshots/game_gui.jpg" width="25%" height="25%">
+
 ## Rule
 Swing the phone to control the gray ball to hit other balls.
 
