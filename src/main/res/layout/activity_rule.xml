@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.bbs.RuleActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Rules：\n\nSwing the phone to control the movement of the gray ball.\n\nIf the green ball is touched,  the gray ball becomes larger and score +1.\n\nIf the blue ball is touched, the gray ball returns to its original size and scores +2.\n\nIf you touch the yellow ball, the red ball in a certain range is eliminated, and the score is increased to the number of eliminated red ball +1.\n\nIf you touch the red ball, the game is over."
+        android:textSize="20sp" />
+
+</RelativeLayout>
